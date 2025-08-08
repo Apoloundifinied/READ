@@ -1,26 +1,70 @@
-<h1 align="center">👾 Apoloundifinied</h1>
+
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%24+whoami;Apoloundifinied+--+Fullstack+on+Linux+Mode" alt="Typing SVG" /></h1>
+
+```
+🧠 FULLSTACK DEV | 🐧 LINUX USER | 🤖 BOT ARCHITECT
+```
+
+```sh
+┌─[root@archlinux]─[~/Apoloundifinied]
+└──╼ # cat about_me.txt
+```
+
+- 🌑 Vivendo no terminal desde sempre
+- ⚡ Stack afiada com React, Node.js, Laravel, Python
+- 🤖 Especialista em bots para Discord, Telegram e automações obscuras
+- 🧬 Linux user hardcore (Arch btw)
+- 🛠️ Criando, quebrando, rebuildando
+- 🎯 Missão: código limpo, rápido e funcional
+
+---
+
+```sh
+┌─[root@archlinux]─[~/Apoloundifinied]
+└──╼ # cat tools.txt
+```
+
+- 💻 Editor: VS Code + Neovim
+- 🌐 Front: React, Tailwind, Framer Motion
+- 🔙 Back: Node.js, Express, Laravel, REST APIs
+- 🧠 Brainware: Git, Docker, Bash, SQLite, MongoDB
+- 🤖 Botware: discord.js, Telegraf, Puppeteer
+- 🐧 OS: Arch, Mint, Debian, Kali
+
+---
+
+```sh
+┌─[root@archlinux]─[~/Apoloundifinied]
+└──╼ # curl github.com/Apoloundifinied/status
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+me+chamo+Apoloundifinied!;Fullstack+Developer+💻;Linux+Enthusiast+🐧;Bot+Developer+🤖;Let's+create+something+insane!" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoloundifinied&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-### 🧠 Sobre mim
+```sh
+┌─[root@archlinux]─[~/Apoloundifinied]
+└──╼ # ping -c 1 connections
+```
 
-- 🔧 Desenvolvedor **Fullstack**, apaixonado por tecnologia e performance
-- 🐧 Usuário avançado de **Linux** (Arch, Mint, Debian…)
-- 🤖 Criador de bots para Discord, Telegram e automações
-- 🚀 Sempre explorando novas linguagens, frameworks e ideias
-- 📍 Brasil
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seu_telegram)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apoloundifinied)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+```sh
+┌─[root@archlinux]─[~/Apoloundifinied]
+└──╼ # echo "Últimas palavras:"
+```
 
-```bash
-💡 Linguagens:       JavaScript · TypeScript · Python · PHP · Shell Script
-⚙️ Frameworks:       React · Node.js · Laravel · Express · React Native
-🖥️ Sistemas:         Arch Linux · Linux Mint · Ubuntu
-🧠 Outras skills:    Docker · Git · MongoDB · MySQL · API REST
-🤖 Bots:             Discord.js · Telegraf · Puppeteer
+> “Hack the planet. Deploy the future.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Apoloundifinied&label=Visitors&color=purple" alt="Profile views" />
+</p>
